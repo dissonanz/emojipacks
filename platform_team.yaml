@@ -26,3 +26,11 @@ emojis:
     src: https://github.com/dissonanz/emojipacks/raw/master/images/wall.png
   - name: wat2
     src: https://github.com/dissonanz/emojipacks/raw/master/images/wat2.jpg
+  - name: tardis
+    src: https://github.com/dissonanz/emojipacks/raw/master/images/tardis.jpg
+  - name: obama
+    src: https://github.com/dissonanz/emojipacks/raw/master/images/obama.jpg
+  - name: cyberman
+    src: https://github.com/dissonanz/emojipacks/raw/master/images/cyberman.jpg
+  - name: dalek
+    src: https://github.com/dissonanz/emojipacks/raw/master/images/dalek.jpg
